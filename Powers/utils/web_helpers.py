@@ -14,7 +14,7 @@ from Powers.bot_class import LOGGER, MESSAGE_DUMP, Gojo
 from Powers.utils.http_helper import *
 from Powers.utils.sticker_help import resize_file_to_sticker_size
 
-backUP = "https://artfiles.alphacoders.com/160/160160.jpeg"
+backUP = "https://radare.arzfun.com/api/tg/photo?id=AgACAgUAAxkBAAEB34NnAuywIRrIg9hKQMaFDBk0ox6FogACb8AxG_DKGFREtZXM3YzEIwEAAwIAA3kAAzYE"
 
 async def get_file_size(file: Message):
     if file.photo:
