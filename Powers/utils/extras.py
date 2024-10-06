@@ -640,8 +640,8 @@ NO       NO   NONONO            NONO
 ]
 
 StartPic = [
-    "https://te.legra.ph/file/98f45051aa26391dd9e67.jpg",
-    "https://te.legra.ph/file/674b41488884ae4def0cb.jpg",
+    "https://l.arzfun.com/SaCV9",
+    "https://l.arzfun.com/SaCV9",
     "https://te.legra.ph/file/481d3286b4dffe97fd7b5.jpg",
     "https://te.legra.ph/file/ffe9df5cfd9ec7d892dd6.jpg",
     "https://te.legra.ph/file/e8d7fadf9d8729e272487.jpg",
