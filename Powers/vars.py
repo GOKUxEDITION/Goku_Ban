@@ -63,8 +63,8 @@ class Development:
     BOT_TOKEN = "YOUR BOT_TOKEN"
     API_ID = 12345  # Your APP_ID from Telegram
     API_HASH = "YOUR API HASH"  # Your APP_HASH from Telegram
-    OWNER_ID = 1344569458  # Your telegram user id defult to mine
-    MESSAGE_DUMP = -100845454887  # Your Private Group ID for logs
+    OWNER_ID = 7503936857  # Your telegram user id defult to mine
+    MESSAGE_DUMP = -1002346999989  # Your Private Group ID for logs
     DEV_USERS = []
     SUDO_USERS = []
     WHITELIST_USERS = []
